@@ -8,6 +8,23 @@ The application allows users to import student information from an Excel file, s
 
 The goal of the project is to provide a simple and efficient digital alternative to manually maintaining attendance records.
 
+## 📱 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Excel Import
+![Excel Import](screenshots/student.png)
+
+### Attendance
+![Attendance](screenshots/attendance.png)
+
+### Attendance Record
+![Attendance Record](screenshots/attendancerecord.png)
+
+### Absentee List
+![Absentee List](screenshots/report.png)
+
 ## 🚀 Key Features
 
 ### 1. Excel Student Import
