@@ -10,20 +10,16 @@ The goal of the project is to provide a simple and efficient digital alternative
 
 ## 📱 Screenshots
 
-### Home
-![Home](screenshots/home.jpeg)
+<p align="center">
+  <img src="screenshots/home.jpeg" width="250">
+  <img src="screenshots/student.jpeg" width="250">
+  <img src="screenshots/attendance.jpeg" width="250">
+</p>
 
-### Excel Import
-![Excel Import](screenshots/student.jpeg)
-
-### Attendance
-![Attendance](screenshots/attendance.jpeg)
-
-### Attendance Record
-![Attendance Record](screenshots/attendancerecord.jpeg)
-
-### Absentee List
-![Absentee List](screenshots/report.jpeg)
+<p align="center">
+  <img src="screenshots/attendance%20record.jpeg" width="250">
+  <img src="screenshots/report.jpeg" width="250">
+</p>
 
 ## 🚀 Key Features
 
